@@ -28,7 +28,7 @@ Italy 🇮🇹 &nbsp;•&nbsp; [mario@marioded.com](mailto:mario@zmario.tech) &n
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron-F1C40F?style=flat-square&labelColor=17202A&logo=electron&logoColor=61DBFB)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-[Nextjs](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Nextjs](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **DevOps**  
